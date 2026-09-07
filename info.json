@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b635fc9a933668ce822fceee8edbdbbee172ac52",
+    "author": "kmartinet <kmartinet@outlook.com>",
+    "time": "2026-07-09T13:59:51Z",
+    "files": 3,
+    "merge": false,
+    "message": "Updated citation information\n"
+  },
+  "repo": "https://github.com/ropensci/ssarp",
+  "pkg": "ssarp",
+  "time": "2026-09-07T08:54:30Z"
+}
